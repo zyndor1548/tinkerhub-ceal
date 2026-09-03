@@ -50,8 +50,8 @@
 	},
 	{
 		"name": "Useless Project 3.0",
-		"date": "September 05, 2026",
-		"time": "09:00 AM",
+		"date": "September 11, 2026",
+		"time": "05:00 PM",
 		"description": "A fun, creative hackathon encouraging participants to build absurd and hilarious tech projects."
 	},
 	{
@@ -60,5 +60,11 @@
 		"time": "08:00 PM",
 		"description": "Do you want to make a pookalam but dont have flowers with you,  make one with code",
 		"image": "8.png"
+	},
+	{
+		"name": "O-Penn Mic",
+		"date": "September 8, 2026",
+		"time": "04:00 PM",
+		"description": "O-Penn Mic is a peer-led gathering of women students on campus where stories, projects, and ideas are shared openly. It’s a safe, supportive space to learn from each other, celebrate small wins, and grow together through curiosity and community."
 	}
 ]
